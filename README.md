@@ -1,4 +1,6 @@
-# Dawn
+# BakeDream Theme
+
+![334_1x_shots_so](https://github.com/user-attachments/assets/b563e2aa-3fa3-40e8-9640-0ee0605f05c3)
 
 [![Build status](https://github.com/shopify/dawn/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Shopify/dawn/actions/workflows/ci.yml?query=branch%3Amain)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?color=informational)](/.github/CONTRIBUTING.md)
